@@ -1,0 +1,11 @@
+{
+  "name": "sum.js",
+  "version": "0.0.0",
+  "description": "A couple of ways to sum a list of numbers in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leon de Rijke",
+  "license": "MIT"
+}
